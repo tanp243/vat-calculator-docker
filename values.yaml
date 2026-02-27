@@ -1,0 +1,2 @@
+image: tanp243/vat:<+pipeline.sequenceId>
+replicas: 1
